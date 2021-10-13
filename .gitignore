@@ -1,0 +1,9 @@
+/.vscode
+beskrivning.md
+
+# These files are generated when running the program
+littleendian.txt
+middlebyte.txt
+
+# Generated on compile
+main.exe
